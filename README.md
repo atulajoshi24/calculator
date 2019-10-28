@@ -5,9 +5,9 @@ This is a simple calculator providing below operations -
 2)subtract 
 3)multiply 
 4)devide 
+5)result  
+6)clear
 
-and 5)result , 6)clear operations 
-
-Maximum two operarnds can be provided at a time 
+Maximum two operands can be provided at a time 
 
 It has very minimal UI and entire focus is on JavaScript 
